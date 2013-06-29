@@ -1,0 +1,8 @@
+"""This file is a list of features to add to the program, described in prose.  As much as possible, the initial item listing should just describe what a feature
+DOES TO/FOR the player behind the screen.  In other words, features should be listed in a straightforward, unambiguous manner in event-driven programming terms.
+Event-driven in this context means "if a player left-clicks the mouse...do something" event handlers, OR "how does object a communicate with b?" tell-don't-ask
+methods in objects.  Objects don't *push* messages out, they *pull* information from other objects or from the event(read:event handler).
+
+After the feature is described in as concise a manner as possible, each feature should be described mechanically in prose.  Each step/interaction should be
+spelled out, as if talking someone through an explanation of how the code is running."""
+
